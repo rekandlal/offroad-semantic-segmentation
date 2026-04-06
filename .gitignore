@@ -1,0 +1,21 @@
+# Ignore dataset
+data/
+runs/
+
+# Ignore model outputs
+runs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter (if any)
+.ipynb_checkpoints/
